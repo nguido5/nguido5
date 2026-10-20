@@ -19,10 +19,6 @@ I'm interested in **guidance, navigation, and control (GNC)** and autonomy for a
 | **Test & validation** | A full-stack hardware-in-the-loop motor DVT rig and a ROS/MCAP telemetry validator checked against 20,000 lb test runs |
 | **CFD** | Multi-element NACA 4412 RANS analysis in ANSYS Fluent (slat/flap trade study) |
 
-## Code
-
-- [POMDP planning agent & tournament benchmark harness](https://github.com/Yoloholoknow/3600-tournament)
-
 ## Explore the portfolio
 
 - [Software & Autonomy](https://nguido5.github.io/software.html): POMDP planning agent, benchmark harness, engine RUL scheduler
