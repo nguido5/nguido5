@@ -19,25 +19,29 @@ I'm interested in **guidance, navigation, and control (GNC)** and autonomy for a
 | **Test & validation** | A full-stack hardware-in-the-loop motor DVT rig and a ROS/MCAP telemetry validator checked against 20,000 lb test runs |
 | **CFD** | Multi-element NACA 4412 RANS analysis in ANSYS Fluent (slat/flap trade study) |
 
+## Code
+
+- [POMDP planning agent & tournament benchmark harness](https://github.com/Yoloholoknow/3600-tournament)
+
 ## Explore the portfolio
 
-- [Test & Validation](https://nguido5.github.io/validation.html): HIL motor rig, ROS/MCAP validator, destructive DVT
 - [Software & Autonomy](https://nguido5.github.io/software.html): POMDP planning agent, benchmark harness, engine RUL scheduler
 - [Aerospace Analysis](https://nguido5.github.io/aerospace.html): flight dynamics simulator, airfoil CFD
 - [Hardware & Design](https://nguido5.github.io/hardware.html): custom FPV quadcopter, lunar EVA boot sensor platform
+- [Test & Validation](https://nguido5.github.io/validation.html): HIL motor rig, ROS/MCAP validator, destructive DVT
 
 ## Experience & recognition
 
 - **Robotics Engineering Intern**, Slip Robotics (Summer 2026)
 - **Undergraduate Researcher**, Georgia Tech, Dr. John Dec: flight performance simulation (current)
-- **Undergraduate Researcher**, Aerospace Systems Design Laboratory: turbofan degradation modeling and RUL scheduling
+- **Researcher**, Aerospace Systems Design Laboratory: turbofan degradation modeling and RUL scheduling
 - **1st Place**, GT AIAA AE Hackathon (Feb 2026): lunar EVA boot multi-sensor fusion concept
 
 ## Tools
 
-**Languages:** C++, Python, MATLAB/Simulink, Java, SQL
-**Frameworks & tools:** ROS, Foxglove, JAX/NumPy, FastAPI, Docker/WSL2, LabJack DAQ, ANSYS Fluent, Git/GitHub
-**Concepts:** Bayesian state estimation (HMM/POMDP, Kalman filters), PID control, alpha-beta search, 6-DOF dynamics
+- **Languages:** C++, Python, MATLAB/Simulink, Java, SQL
+- **Frameworks & tools:** ROS, Foxglove, JAX/NumPy, FastAPI, Docker/WSL2, LabJack DAQ, ANSYS Fluent, Git/GitHub
+- **Concepts:** Bayesian state estimation (HMM/POMDP, Kalman filters), PID control, alpha-beta search, 6-DOF dynamics
 
 ## Get in touch
 
