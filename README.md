@@ -30,7 +30,7 @@ I'm interested in **guidance, navigation, and control (GNC)** and autonomy for a
 
 - **Robotics Engineering Intern**, Slip Robotics (Summer 2026)
 - **Undergraduate Researcher**, Georgia Tech, Dr. John Dec: flight performance simulation (current)
-- **Researcher**, Aerospace Systems Design Laboratory: turbofan degradation modeling and RUL scheduling
+- **Undergraduate Researcher**, Aerospace Systems Design Laboratory: turbofan degradation modeling and RUL scheduling
 - **1st Place**, GT AIAA AE Hackathon (Feb 2026): lunar EVA boot multi-sensor fusion concept
 
 ## Tools
